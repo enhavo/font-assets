@@ -1,0 +1,6 @@
+{
+  "name": "@enhavo/font",
+  "license": "MIT",
+  "types": "index.ts",
+  "version": "0.1.1"
+}
